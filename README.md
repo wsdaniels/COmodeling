@@ -4,7 +4,7 @@ Repo to hold data and code for manuscript "Predicting Fire Season Intensity in M
 Manuscript can be found at: https://doi.org/10.31223/X59320  
 
 **Response variable data**  
-Contains week averaged CO observations from MOPITT:  
+Contains week averaged CO observations from MOPITT within the MSEA region:  
 MSEA_V8JMOPITT_weeklyanomalies_WEDCEN_nofill.csv  
 
 
