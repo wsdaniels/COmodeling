@@ -1,7 +1,6 @@
 # COmodeling
 
-Repo to hold data and code for manuscript "Predicting Fire Season Intensity in Maritime Southeast Asia with Interpretable Models"  
-Manuscript can be found at: https://doi.org/10.31223/X59320  
+Repo to hold data and code for manuscript "Interpretable Models Capture the Complex Relationship Between Climate Indices and Fire Season Intensity in Maritime Southeast Asia." Manuscript can be found at: https://doi.org/10.31223/X59320  
 
 **Response variable data**  
 Contains week averaged CO observations from MOPITT within the MSEA region:  
