@@ -20,3 +20,28 @@ msea_olr.csv
 Two R scripts are provided to reproduce analysis from manuscript:  
 "RUN_FIRST-create_data_matrix.R" takes the response and predictor variable data and prepares them for modeling  
 "RUN_SECOND-find_best_model.R" takes the prepared data and finds a sequence of optimally performing models for the given response region  
+
+
+
+
+### Citation
+
+If you use this code in your research, please cite the accompanying paper:
+
+Daniels et al. (2022). Interpretable Models Capture the Complex Relationship Between Climate Indices and Fire Season Intensity in Maritime Southeast Asia. *Journal of Geophysical Research: Atmospheres*. https://doi.org/10.1029/2022JD036774
+
+BibTeX:
+```bibtex
+
+@article{daniels_interpretable_2022,
+author = {Daniels, William S. and Buchholz, Rebecca R. and Worden, Helen M. and Ahamad, Fatimah and Hammerling, Dorit M.},
+title = {Interpretable Models Capture the Complex Relationship Between Climate Indices and Fire Season Intensity in Maritime Southeast Asia},
+journal = {Journal of Geophysical Research: Atmospheres},
+volume = {127},
+number = {17},
+doi = {10.1029/2022JD036774},
+pages = {e2022JD036774},
+year = {2022}
+}
+
+```
