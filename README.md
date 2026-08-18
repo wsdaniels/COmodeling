@@ -1,4 +1,4 @@
-# COmodeling
+## Modeling atmospheric carbon monoxide (CO) anomalies as a proxy for fire season intensity in Maritime Southeast Asia 
 
 Repo to hold data and code for manuscript "Interpretable Models Capture the Complex Relationship Between Climate Indices and Fire Season Intensity in Maritime Southeast Asia." Manuscript can be found at: https://doi.org/10.1029/2022JD036774
 
